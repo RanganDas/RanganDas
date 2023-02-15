@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student<br>🤝 I’m currently working on a full stack project<br>🌱 I’m currently learning react, mongoDB, Django<br>💬 Ask me about Game developement,python,java<br>⚡ At free time I love to draw potraits or working out 
+🔸I’m a student<br>🔸 I’m currently working on a full stack project<br>🔸 I’m currently learning react, mongoDB, Django<br>💬 Ask me about Game developement,python,java<br>⚡ At free time I love to draw potraits or working out 
 
 
 ## 🌐 Socials:
